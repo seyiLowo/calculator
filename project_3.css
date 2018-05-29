@@ -1,0 +1,95 @@
+body{
+	background:#1d1d1d;
+	font-family:sans-serif;
+}
+
+#d1{
+	padding: 2%;
+	margin-top: 1%;
+	width: 80%;
+	/*border: 1px solid white;*/
+}
+
+#d2{
+	/*border: 1px solid white;*/
+	color: #e4e4e4;
+	width: 100%;
+	padding-left: 0;
+}
+
+#d3{
+	background: #2e2e2e;
+	border-top: 5px solid #f9264c;
+	width: 100%;
+	height: 150px;
+	text-align: right;
+	font-size: 4em;
+	color:#ffffff;
+	padding-top:20px;
+	/*margin-top: 1%;*/
+
+}
+
+#d4{
+	/*border: 1px solid white;*/
+	margin-top: 2%;
+	width: 18%;
+	float: left;
+	text-align: center;
+	padding-right: 0;
+}
+
+#d5{
+	/*border: 1px solid white;*/
+	margin-top: 2%;
+	width: 76%;
+	float: right;
+	text-align: center;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+button{
+	width: 100%;
+	height: 70px;
+	border:0 ;
+	border-radius: 0 ;
+	background-color: #3f3f3f ;
+	padding-right:0;
+	text-align: center ;
+	font-size: 2.5em ;
+	color: #a8a8a8 ;
+}
+
+#d6, #d7, #d8, #d9, #d10, #d11, #d12, #d13, #d14, #d15{
+	margin-bottom: 5px;
+	padding-left: 0;
+}
+
+#d35, #d32, #d19, #d28, #d24{
+	padding-right: 0;
+	padding-left: 5px;
+}
+
+#equalsTo{
+	background-color: #f9264c;
+	color: #a8a8a8;
+}
+
+#d21, #d22, #d23, #d25, #d26, #d27, #d29, #d17, #d18, #d20, #d30, #d31, #d33, #d34{
+	padding-right: 0;
+	padding-left: 5px;
+}
+
+#d8, #d6{
+	font-size: 8px;
+}
+
+button:hover{
+	background-color: #f9556d;
+}
+
+button:active{
+	background-color:  #fa385a;
+	color: #1d1d1d;
+}
